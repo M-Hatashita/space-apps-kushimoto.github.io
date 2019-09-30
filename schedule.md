@@ -4,6 +4,18 @@ title: スケジュール
 permalink: /schedule/
 ---
 
+## 審査員
+
+<div class="judges">
+{% for judge in site.judges %}
+  <div class="judge">
+    <div class="judge-image"><img src="{{ site.url }}/img/judges/{{ judge.img }}" alt="{{ judge.name }}"></div>
+    <h2>{{ judge.name }}</h2>
+    <div>{{ judge.position }}</div>
+  </div>
+{% endfor %}
+</div>
+
 ## 日時
 
 2019年10月18日(金) - 2019年10月20日(日)
