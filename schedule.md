@@ -16,6 +16,8 @@ permalink: /schedule/
 {% endfor %}
 </div>
 
+<p style="text-align: right;">(五十音順)</p>
+
 ## 日時
 
 2019年10月18日(金) - 2019年10月20日(日)

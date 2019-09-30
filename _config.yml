@@ -37,18 +37,18 @@ descriptions:
     desc: "Space Apps Challenge Kushimoto の実行委員からのお知らせ"
 
 judges:
+  - name: 古崎　晃司様
+    img: kozaki.jpg
+    position: 大阪電気通信大学 情報通信工学部　情報工学科　教授
   - name: 寺田 弘慈様
-    img: terada.png
+    img: terada.jpg
     position: 国立研究開発法人宇宙航空研究開発機構 (JAXA) 第一宇宙技術部門衛星システム開発統括
   - name: 西村　竜一様
-    img: nishimura.png
+    img: nishimura.jpg
     position: 国立大学法人 和歌山大学 データ・インテリジェンス教育研究部門 （システム工学部）講師
   - name: 牟田 梓様
-    img: muta.png
-    position: さくらインターネット株式会社 社長室 Tellus project (xData Alliance ProjectAllianceBusiness Group) プロデューサー
-  - name: 古崎　晃司様
-    img: kozaki.png
-    position: 大阪電気通信大学 情報通信工学部　情報工学科　教授
+    img: muta.jpg
+    position: さくらインターネット株式会社 xData ALLIANCE Project プロデューサー
 
 gold:
   # ココアップズ株式会社 アストロベアーズ事業部
