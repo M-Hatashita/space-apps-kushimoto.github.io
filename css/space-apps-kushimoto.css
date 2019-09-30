@@ -1,3 +1,8 @@
+img
+{
+  max-width: 100% !important;
+}
+
 #page .container h2
 {
   border-bottom: 3px double #cccccc;
@@ -68,20 +73,26 @@
   word-break: break-word;
 }
 
+.judge-image
+{
+  text-align: center;
+}
+
 .judge-image img{
   width: 190px;
   max-width: 100%;
 }
 
-@media screen and (max-width: 960px) {
-  .judges{
-    margin-left: 0;
-    margin-right: 0;
-  }
-  .judges .judge{
-    width: 50%;
-    padding: 16px;
-  }
+.sponsors
+{
+  width: 1060px;
+  max-width: 95%;
+  margin: 2em auto;
+}
+
+.sponsors .row
+{
+  padding: 0;
 }
 
 footer .attend
@@ -96,4 +107,28 @@ footer .attend a
 {
   padding: 24px;
   font-size: 24px;
+}
+
+.sponsors h2
+{
+  font-weight: bolder;
+  margin-top: 2em;
+}
+
+.vcenter
+{
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+}
+
+@media screen and (max-width: 960px) {
+  .judges{
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .judges .judge{
+    width: 50%;
+    padding: 16px;
+  }
 }
