@@ -122,6 +122,11 @@ footer .attend a
   float: none;
 }
 
+footer .btn
+{
+  white-space: normal;
+}
+
 @media screen and (max-width: 960px) {
   .judges{
     margin-left: 0;
