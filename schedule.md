@@ -1,6 +1,6 @@
 ---
 layout: page
-title: スケジュール
+title: 開催概要
 permalink: /schedule/
 ---
 
