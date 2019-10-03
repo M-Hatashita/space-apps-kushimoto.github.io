@@ -45,7 +45,7 @@ Space Apps Challenge Kushimoto チームは、参加者が会場の警備員や�
 
 ## 7. 連絡先情報
 
-【ここに連絡先情報を含めてください。イベント開催中に運営者に連絡が取れる手段を必ず書いておくようにしてください。】
+Space Apps Challenge Kushimoto 実行委員会: spaceappskushimoto@gmail.com
 
 ## 8. ライセンスと帰属
 
