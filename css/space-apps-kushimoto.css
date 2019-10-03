@@ -115,6 +115,17 @@ footer .attend a
   margin-top: 2em;
 }
 
+.sponsors .platinum
+{
+  text-align: center;
+}
+
+.sponsors .platinum img
+{
+  width: 400px;
+  max-width: 95%;
+}
+
 .vcenter
 {
   display: inline-block;
@@ -125,6 +136,12 @@ footer .attend a
 footer .btn
 {
   white-space: normal;
+}
+
+footer .whoweare p
+{
+  font-size: 22px !important;
+  font-weight: bolder;
 }
 
 @media screen and (max-width: 960px) {
