@@ -24,7 +24,7 @@ dl > dt {
 }
 </style>
 
-Space Apps Challenge Kushimoto 2019 の受賞作品が決定しました。
+Space Apps Challenge Kushimoto 2019 の受賞チームが決定しました。
 
 ## グローバルアワード
 
