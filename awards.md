@@ -26,7 +26,7 @@ dl > dt {
 
 Space Apps Challenge Kushimoto 2019 の受賞チームが決定しました。
 
-## グローバルアワード
+## 総合優勝 / グローバルアワードノミネート
 
 ![team constellator](./img/awards/global.jpg)
 
