@@ -76,6 +76,7 @@ Space Apps Challenge Kushimoto 2019 の受賞チームが決定しました。
 <td>Landsat8の衛星写真、 MapExpert 、Tellus、国土交通省空路データなどを使い、地図の写真を合成することで、缶サットの打ち上げに適した場所を探す。</td>
 </tr>
 <tr>
+<tr><th scope="row">スライド</th><td><a href="https://speakerdeck.com/cansatkainan/fou-satutofalseda-tishang-genishi-sitachang-suo-wotan-sudi-tu-wozuo-ru">https://speakerdeck.com/cansatkainan/fou-satutofalseda-tishang-genishi-sitachang-suo-wotan-sudi-tu-wozuo-ru</a></td>
 <th scope="row">講評</th>
 <td><dl><dt>牟田審査員</dt><dd>課題設定が良かった。自分も学生時代に缶サットをやっていたので、打ち上げ場所がないと言うのはリアルな課題なのが分かった。また、Tellus を使う中で複数のデータを組み合わせて何か知見を得ようとしたと言うアプローチがおもしろく感じられた。</dd></dl></td>
 </tr>
@@ -93,6 +94,7 @@ Space Apps Challenge Kushimoto 2019 の受賞チームが決定しました。
 <tr><th scope="row">タイトル</th><td>CanSatOperator (CSO)</td></tr>
 <tr><th scope="row">内容</th>
 <td>NASA の オープンソースソフトウェア OpenMCT を普段取り組んでいる缶サットに適した形に改造することで、缶サットのための Mission Control Software を開発し、缶サットのオペレーションと成果取りまとめの効率化と高度化を目指す。</td></tr>
+<tr><th scope="row">スライド</th><td><a href="https://speakerdeck.com/updjolo/can-sat-operator-by-toin-high-school">https://speakerdeck.com/updjolo/can-sat-operator-by-toin-high-school</a></td></tr>
 <tr><th scope="row">講評</th><td><dl><dt>古崎審査員</dt><dd>プログラムをはじめたばかりのところ、巨大なオープンソースプロジェクトと、自分たちのデータを果敢に結びつけたチャレンジ精神を評価した。今後みなさんがこのようなソフトウェアを使っていく中でどんどんよくなっていくことを期待したい。改良したものはぜひオープンソースで公開して欲しい。</dd></dl></td></tr>
 </tbody>
 </table>
