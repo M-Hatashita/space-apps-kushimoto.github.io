@@ -77,6 +77,7 @@ Space Apps Challenge Kushimoto 2019 の受賞チームが決定しました。
 </tr>
 <tr>
 <tr><th scope="row">スライド</th><td><a href="https://speakerdeck.com/cansatkainan/fou-satutofalseda-tishang-genishi-sitachang-suo-wotan-sudi-tu-wozuo-ru">https://speakerdeck.com/cansatkainan/fou-satutofalseda-tishang-genishi-sitachang-suo-wotan-sudi-tu-wozuo-ru</a></td>
+</tr>
 <th scope="row">講評</th>
 <td><dl><dt>牟田審査員</dt><dd>課題設定が良かった。自分も学生時代に缶サットをやっていたので、打ち上げ場所がないと言うのはリアルな課題なのが分かった。また、Tellus を使う中で複数のデータを組み合わせて何か知見を得ようとしたと言うアプローチがおもしろく感じられた。</dd></dl></td>
 </tr>
